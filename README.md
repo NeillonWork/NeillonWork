@@ -2,9 +2,7 @@
 
 - 🔭 Atualmente coloco-me a disposição para uma oportunidade de emprego como Dev Junior em Front-End
 - 🌱 Estudando ReactJS/TypeScript
-- 😄 Pronouns: ele/dele
-
-
+- 
 <div align="center">
   <a href="https://github.com/NeillonWork">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeillonWork&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,6 +11,7 @@
  
 ## ⚡ Tecnologias
 Estas são algumas das tecnologias e ferramentas com as quais trabalho/estudo:
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Nei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nei-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
