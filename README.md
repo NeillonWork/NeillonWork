@@ -1,4 +1,4 @@
-### Olá! Eu sou o Neillon Almeida👋
+### Olá! Eu sou o Neillon 👋
 
 - 🔭 Atualmente coloco-me a disposição para uma oportunidade de emprego como Dev Junior em Front-End
 - 🌱 Estudando ReactJS/TypeScript
