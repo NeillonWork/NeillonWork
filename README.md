@@ -18,7 +18,7 @@
   <img align="center" alt="Nei-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <!-- <img align="right" alt="Nei-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/60415245?v=4"> -->
-  <img align="right" alt="Nei-pic" height="150" src="https://github.com/NeillonWork/NeillonWork/blob/main/img/perfil.gif">
+  <img align="right" alt="Nei-pic" height="150" src="https://github.com/NeillonWork/NeillonWork/blob/main/img/perfil.gif?raw=true">
 </div>
 
 ##
