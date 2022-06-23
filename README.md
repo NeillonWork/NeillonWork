@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Neillon Almeida👋
 
 - 🔭 Atualmente coloco-me a disposição para uma oportunidade de emprego como Dev Junior em Front-End
-- 🌱 Estudando ReactJs/Typescript
+- 🌱 Estudando ReactJS/TypeScript
 - 😄 Pronouns: ele/dele
 
 
