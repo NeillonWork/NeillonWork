@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Neillon 👋
 
 - 🔭 Atualmente coloco-me a disposição para uma oportunidade de emprego como Dev Junior em Front-End
-- 🌱 Estudando ReactJS/TypeScript
+- 🌱 Estudando ReactJS, React-Native/TypeScript
 
 <div align="center">
   <a href="https://github.com/NeillonWork">
