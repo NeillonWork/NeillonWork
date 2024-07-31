@@ -2,12 +2,13 @@
 
 - 🔭 Atualmente coloco-me a disposição para uma oportunidade de emprego como Dev Junior em Front-End
 - 🌱 Estudando ReactJS, React-Native/TypeScript
-
+<!--
 <div align="center">
   <a href="https://github.com/NeillonWork">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeillonWork&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeillonWork&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->
  
 ## ⚡ Tecnologias
 Estas são algumas das tecnologias e ferramentas com as quais trabalho/estudo:
